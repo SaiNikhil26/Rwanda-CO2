@@ -1,2 +1,2 @@
 # Rwanda CO2
-This model predicts the amount of CO2 present in the air based on the geographical asepcts of the data.
+Data Analysis of the amount of CO2 present in the air and developing a Machine Learning model based on the pre-processed data.
